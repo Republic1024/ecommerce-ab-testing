@@ -1,0 +1,2 @@
+Metric,Control_Group,Treatment_Group,Control_Rate,Treatment_Rate,Absolute_Effect,Relative_Effect_Pct,P_Value,Is_Significant,CI_Lower,CI_Upper,Control_Sample_Size,Treatment_Sample_Size,Statistical_Power
+Conversion Rate,psa,ad,0.01785410644448223,0.025546559636683747,0.007692453192201517,43.085064022225836,1.7052807161559714e-13,True,0.0059509324316110055,0.009433973952792028,23524,564577,0.9999999998958172

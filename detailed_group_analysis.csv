@@ -1,0 +1,5 @@
+,user_id,converted,converted,converted,total_ads,total_ads,total_ads,most_ads_hour,most_ads_hour
+,count,sum,mean,std,mean,median,std,mean,std
+test_group,,,,,,,,,
+ad,564577,14423,0.025547,0.157778,24.823365,13.0,43.750456,14.4759,4.841808
+psa,23524,420,0.017854,0.132424,24.761138,12.0,42.86072,14.304923,4.656239
